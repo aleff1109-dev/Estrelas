@@ -1,0 +1,15 @@
+COLOQUE SEUS ARQUIVOS NESTA PASTA
+
+1. Adicione três fotos de vocês e nomeie exatamente:
+   foto-01.jpg
+   foto-02.jpg
+   foto-03.jpg
+
+2. Adicione a música de vocês e nomeie:
+   nossa-musica.mp3
+
+3. Abra index.html para editar a carta, as legendas e os textos.
+   Abra script.js para alterar o nome da música e as mensagens da surpresa.
+
+DICA: use fotos de boa qualidade e confirme que você tem direito de compartilhar o arquivo de música.
+Para testar a reprodução de áudio de forma mais consistente, abra a pasta com o VS Code e use a extensão Live Server.
